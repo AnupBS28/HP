@@ -1,0 +1,1 @@
+This contains all 3 exercises. Run using python in cmd or in vs code debugger.
